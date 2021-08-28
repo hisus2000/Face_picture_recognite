@@ -10,3 +10,4 @@ _ Cuối cùng chạy file Test load data tương tự để test kết quả
 
 
 Lưu ý: Dữ liệu chuẩn bị cho phần Train lẫn Test là ảnh RGB có kích thước 256x256
+Sử dụng Resize.py để resize ảnh. Lưu file ảnh cần xử lí vào cùng thư mục Resize.py theo đường dẫn "./image/"
